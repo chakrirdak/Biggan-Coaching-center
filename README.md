@@ -1,4 +1,4 @@
-# Vigyan Coaching Center - Firebase-ready Android Project
+# Biggan Coaching Center
 
 This project scaffold is prepared for you (Kotlin + Room + Firestore placeholders).
 Upload the entire contents of this folder to your GitHub repository (Create new repo -> Upload files).
