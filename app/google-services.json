@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "104465822864",
+    "project_id": "biggan-coaching-center",
+    "storage_bucket": "biggan-coaching-center.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104465822864:android:190f4a9a6d361adaee1415",
+        "android_client_info": {
+          "package_name": "com.biggan.coaching"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD607ClzyMnTJG411GeZzItCxa9Dkz4vl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104465822864:android:8dda239b13bc6bd4ee1415",
+        "android_client_info": {
+          "package_name": "com.vigyan.coaching"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD607ClzyMnTJG411GeZzItCxa9Dkz4vl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
